@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "550731466041",
+    "firebase_url": "https://text-msg101.firebaseio.com",
+    "project_id": "text-msg101",
+    "storage_bucket": "text-msg101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550731466041:android:464900cd892ddeca",
+        "android_client_info": {
+          "package_name": "msg.text"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550731466041-it9ep4t04dhsed2glkbrfelpbsk9a909.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLKaUgQ1rV_GOpcnybRY3G-hh4euBnMeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550731466041-it9ep4t04dhsed2glkbrfelpbsk9a909.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
